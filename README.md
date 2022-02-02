@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Oi tudo bem? Eu sou <a href="https://www.linkedin.com/in/erick-s-9b2442124/"><i>Erick Stopassoli</i></a> 😃️</h1>
   <h4 align="center">Estudo sistemas de Informação e sou apaixonado por JavaScript, busco sempre ampliar meus conhecimentos e aprender cada vez mais.</h4>
-
+</div>
 <div align="center">
   <a href="https://github.com/estopassoli">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=estopassoli&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
