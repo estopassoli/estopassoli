@@ -1,38 +1,34 @@
-<div>
-  <h1 align="center">Oi tudo bem? Eu sou <a href="https://www.linkedin.com/in/erick-s-9b2442124/"><i>Erick Stopassoli</i></a> 😃️</h1>
-  <h4 align="center">Estudo Sistemas de Informação e sou apaixonado por JavaScript, busco sempre ampliar meus conhecimentos e aprender cada vez mais.</h4>
-</div>
-<div align="center">
-  <a href="https://github.com/estopassoli">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=estopassoli&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estopassoli&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+## E aí, tudo beleza?? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
-<div align="center" valign="top"><br>
-  
 
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+Apaixonado por programação e tecnologias, eu sou um desenvolvedor back-end, apaixonado por automações e machine learning.
 
-</div><br>
+<a href="https://www.linkedin.com/in/estopassoli/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/_estopassoli" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-<div align="center">
-    <a href="https://www.instagram.com/riquiezin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erick-s-9b2442124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:erick110999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://wa.me/5513996597134"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a>
-</div>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erick110999@gmail.com)](mailto:erick110999@gmail.com)
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+<img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right">
 
-<div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+### Linguagens e ferramentas
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<br/>
+
+<details>
+<summary><strong>Minhas estatísticas do Github</strong></summary>
+<br>
+  <p align="center" style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=estopassoli&show_icons=true&line_height=35&count_private=true"/>
+    <img height=255 src="https://github-readme-stats.vercel.app/api/top-langs/?username=estopassoli"/>
+  </p>
+</details>
+
+
+<h3 align="center">With very :coffee: and :heart: by <a href="https://instagram.com/_estopassoli">Erick Stopassoli</a></h3>
