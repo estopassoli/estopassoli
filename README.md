@@ -29,4 +29,4 @@ Apaixonado por programação e tecnologias, eu sou um desenvolvedor back-end, al
 </details>
 
 
-<h3 align="center">With very :coffee: and :heart: by <a href="https://instagram.com/_estopassoli">Erick Stopassoli</a></h3>
+<h3 align="center">Made with 🤍 by <a href="https://instagram.com/_estopassoli">Erick Stopassoli</a></h3>
