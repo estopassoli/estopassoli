@@ -21,7 +21,7 @@ Apaixonado por programação e tecnologias, eu sou um desenvolvedor back-end, al
 <br/>
 
 <details>
-<summary><strong>Minhas estatísticas do Github</strong></summary>
+<strong>Minhas estatísticas do Github</strong>
   <p align="center" style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=estopassoli&show_icons=true&line_height=35&count_private=true"/>
     <img height=255 src="https://github-readme-stats.vercel.app/api/top-langs/?username=estopassoli"/>
