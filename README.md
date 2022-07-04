@@ -2,7 +2,7 @@
 
 <img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right"><br>
 
-<h3>Apaixonado por desenvolvimento, iniciei o projeto ESX (Erick Softwares "X") o X é utilizado em cálculos matemáticos, onde você não sabe o problema que tende a ser resolvido, faço exatamente isso: aprendo diariamente desenvolvendo soluções para problemas repentínos. <br> Estudante de Engenharia de Software e Machine Learning.</h3>
+<h3>Apaixonado por desenvolvimento, iniciei o projeto ESX (Estopassoli Softwares "X") o X é utilizado em cálculos matemáticos, onde você não sabe o problema que tende a ser resolvido, faço exatamente isso: aprendo diariamente desenvolvendo soluções para problemas repentínos. <br> Estudante de Engenharia de Software e Machine Learning.</h3>
 
 
 <p>Me conheça nas redes sociais:</p>
