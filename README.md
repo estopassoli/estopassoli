@@ -30,4 +30,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Erick Stopassoli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=est0passoli&show_icons=true&theme=dracula)
+![Erick Stopassoli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=estopassoli&show_icons=true&theme=dracula)
