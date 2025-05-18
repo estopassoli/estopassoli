@@ -18,8 +18,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
