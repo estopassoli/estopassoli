@@ -25,7 +25,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
-![MySQL](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
